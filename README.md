@@ -13,3 +13,5 @@ https://developer.android.com/gemini-in-android?utm_source=google-hpp&utm_medium
 ## https://github.com/mario-neb/diyflutter
 
 ## https://github.com/iampawan/FlutterExampleApps
+
+https://github.com/firebase/flutterfire
